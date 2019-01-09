@@ -4,6 +4,6 @@
 
 <body>
   <ul>
-    <l1>Square Root Decomposition</l1>
+    <li>Square Root Decomposition</li>
   </ul>
 </body>
