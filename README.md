@@ -4,6 +4,6 @@
 
 <body>
   <ol>
-    <li><a href="https://codeforces.com/blog/entry/54133">Square Root Decomposition</a></li>
+    <li>Sqrt.cpp<a href="https://codeforces.com/blog/entry/54133">Square Root Decomposition</a></li>
   </ol>
 </body>
