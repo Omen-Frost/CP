@@ -3,5 +3,7 @@
 </head>
 
 <body>
-  <l1>Square Root Decomposition</l1>
+  <ul>
+    <l1>Square Root Decomposition</l1>
+  </ul>
 </body>
