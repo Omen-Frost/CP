@@ -4,6 +4,6 @@
 
 <body>
   <ol>
-    <li>Square Root Decomposition</li><a href="https://codeforces.com/blog/entry/54133"></a>
+    <li><a href="https://codeforces.com/blog/entry/54133">Square Root Decomposition</a></li>
   </ol>
 </body>
