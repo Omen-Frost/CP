@@ -10,4 +10,13 @@
      <li><a href="https://codeforces.com/blog/entry/18051" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Segment Tree <a href="https://codeforces.com/blog/entry/15890" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;"> || Problems  </li>
   </ol>
 </body>
+  
+<head>
+  <h1>Some Questions</h1>
+</head>
+<body>
+  <ol>
+    <li><a href="https://codeforces.com/contest/1105/problem/D" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Multisource BFS</a></li>
+  </ol>
+</body>
 </html>
