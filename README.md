@@ -17,6 +17,7 @@
 <body>
   <ol>
     <li><a href="https://codeforces.com/contest/1105/problem/D" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Multisource BFS</a></li>
+    <li><a href="https://www.codechef.com/COOK102B/problems/ADAMTR" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Graph Coloring</a></li>
   </ol>
 </body>
 </html>
