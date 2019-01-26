@@ -19,6 +19,7 @@
   <ol>
     <li><a href="https://codeforces.com/contest/1105/problem/D" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Multisource BFS</a></li>
     <li><a href="https://www.codechef.com/COOK102B/problems/ADAMTR" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Graph Coloring</a></li>
+    <li><a href="https://codeforces.com/contest/1108/problem/E2" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Segment Tree</a></li>
   </ol>
 </body>
 
@@ -28,7 +29,7 @@
  <body>
    <ol>
     <li><a href="https://codeforces.com/contest/1102/problem/F" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Hamiltonian Cycle</a></li>
-    <li><a href="https://codeforces.com/contest/1108/problem/E2" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">New Question</a></li>
+    
   </ol>
   </body>
 
