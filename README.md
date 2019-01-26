@@ -23,7 +23,7 @@
 </body>
 
 <head>
-  <h1>Yet to Learn
+  <h1>Yet to Learn</h1>
 </head>
  <body>
    <ol>
