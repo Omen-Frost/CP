@@ -29,6 +29,7 @@
  <body>
    <ol>
     <li><a href="https://codeforces.com/contest/1102/problem/F" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">Hamiltonian Cycle</a></li>
+    <li><a href="https://codeforces.com/contest/1106/problem/E" onclick="window.open(this.href); return false;" onkeypress="window.open(this.href); return false;">DP + Weighted Sheduling</a></li>
     
   </ol>
   </body>
